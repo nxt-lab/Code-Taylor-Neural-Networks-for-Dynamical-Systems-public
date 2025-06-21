@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Nguyen"
+  given-names: "Nam"
+  orcid: ""
+- family-names: "Nghiem"
+  given-names: "Truong X."
+  orcid: "https://orcid.org/0000-0003-4841-3800"
+title: "Physics-Constrained Taylor Neural Networks for Learning and Control of Dynamical Systems"
+version: 1.0.0
+doi: https://doi.org/10.5281/zenodo.15710301
+date-released: 2025-06-21
+url: "https://github.com/nxt-lab/Code-Taylor-Neural-Networks-for-Dynamical-Systems-public"
