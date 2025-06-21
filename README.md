@@ -35,5 +35,4 @@ If you use this code or method in your work, please cite the following:
     title = {Physics-Constrained Taylor Neural Networks for Learning and Control of Dynamical Systems},
     author = {Nguyen, Nam T and Tique, Juan C and Nghiem, Truong X},
     language = {en},
-    file = {PDF:C:\\\\Users\\\\namng\\\\Zotero\\\\storage\\\\KE73RJ3H\\\\Nguyen et al. - Physics-Constrained Taylor Neural Networks for Learning and Control of Dynamical Systems.pdf:application/pdf}
 }
