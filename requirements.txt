@@ -1,0 +1,7 @@
+#python version: 3.12.7
+
+torch==2.7.0
+numpy==1.26.4
+matplotlib==3.9.4
+pandas==2.2.2
+scikit-learn==1.5.2
