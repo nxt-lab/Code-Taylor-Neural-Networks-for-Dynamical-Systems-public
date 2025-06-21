@@ -10,7 +10,7 @@ All scripts are provided as Jupyter notebooks for easy experimentation and repro
 ## Install Required Packages
 Install all required Python libraries from the `requirements.txt` file:
 
-```python
+```sh
 pip install -r requirements.txt
 ```
 
@@ -31,8 +31,10 @@ pip install -r requirements.txt
 If you use this code or method in your work, please cite the following:
 
 ```bibtex
-@article{nguyen_physics-constrained_nodate,
-    title = {Physics-Constrained Taylor Neural Networks for Learning and Control of Dynamical Systems},
-    author = {Nguyen, Nam T and Tique, Juan C and Nghiem, Truong X},
-    language = {en},
+@inproceedings{nguyen2025PhysicsConstrainedTaylorNeural,
+  title = {Physics-Constrained {Taylor} Neural Networks for Learning and Control of Dynamical Systems},
+  booktitle = {2025 {{American Control Conference}} ({{ACC}})},
+  author = {Nguyen, Nam and Rangel, Juan and Nghiem, Truong X.},
+  year = {2025}
 }
+```
